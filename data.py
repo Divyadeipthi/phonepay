@@ -253,7 +253,7 @@ if SELECT == "Contact":
     description = "An Aspiring DATA-SCIENTIST..!"
     social_media = {
         "GITHUB": "https://github.com/Divyadeipthi",
-        "LINKEDIN": "https://www.linkedin.com/in/DivyaS"}
+        "LINKEDIN": "https://www.linkedin.com/feed/"}
 
     col1, col2, col3 = st.columns(3)
     col3.image(Image.open("C:/Users/user/Downloads/img/divya_img.jpg"), width=100)
