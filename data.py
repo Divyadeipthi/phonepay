@@ -252,9 +252,8 @@ if SELECT == "Contact":
     mail = (f'{"Mail :"}  {"divyadeeksha278@gmail.com"}')
     description = "An Aspiring DATA-SCIENTIST..!"
     social_media = {
-        "Youtube": "https://www.youtube.com/channel/UCHJz22G_3koWYX_7fwxaF0Q",
         "GITHUB": "https://github.com/Divyadeipthi",
-        "LINKEDIN": "https://www.linkedin.com/in/divya"}
+        "LINKEDIN": "https://www.linkedin.com/in/DivyaS"}
 
     col1, col2, col3 = st.columns(3)
     col3.image(Image.open("C:/Users/user/Downloads/img/divya_img.jpg"), width=100)
